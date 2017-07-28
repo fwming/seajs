@@ -1,0 +1,10 @@
+{
+  "name": "kk",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-contrib-concat": "~1.0.1",
+    "grunt-cmd-transport": "~0.5.1",
+    "grunt-cmd-concat": "~0.2.8"
+  }
+}
